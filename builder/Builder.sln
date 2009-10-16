@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder.csproj", "{84ECABAF-E238-4458-A610-2EA3D98BB2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "..\Adapter\Adapter.csproj", "{4636EA70-2D14-43F4-AAF1-C9C7D22305A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84ECABAF-E238-4458-A610-2EA3D98BB2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84ECABAF-E238-4458-A610-2EA3D98BB2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84ECABAF-E238-4458-A610-2EA3D98BB2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84ECABAF-E238-4458-A610-2EA3D98BB2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4636EA70-2D14-43F4-AAF1-C9C7D22305A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4636EA70-2D14-43F4-AAF1-C9C7D22305A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4636EA70-2D14-43F4-AAF1-C9C7D22305A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4636EA70-2D14-43F4-AAF1-C9C7D22305A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
